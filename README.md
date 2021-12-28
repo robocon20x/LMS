@@ -13,4 +13,4 @@
 
 *** Tài khoản : admin/admin
 - Tất cả tài khoản adminx đều có mật khẩu admin
-
+- Nếu đăng nhập không được thì dùng tài khoản admin/admin là tài khoản mà bạn tạo lúc setup wordpress
